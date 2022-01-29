@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://heroku.com/deploy/https:/github.com/sevadigital/Aniebots.git`)
 
 ## Deploy Locally
 
